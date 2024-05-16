@@ -1,0 +1,4 @@
+(+ 1b1 2b1)
+(def sum x y (+ x y))
+(/ 16b2 4b2)
+(exit) 
